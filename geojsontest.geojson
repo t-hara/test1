@@ -6,6 +6,9 @@
         "type": "name"
     }, 
     "features": [
+        { "type": "LineString",
+          "coordinates": [ [139.7, 35.7], [139.7,35.76], [139.71,35.73],[139.72,35.72],[139.77,35.76] ]
+        },
         {
             "geometry": {
                 "coordinates": [
